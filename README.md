@@ -1,8 +1,8 @@
 Only for linux!
 
 nodejs required
-to start server you need to use ./start.bash
-to start client you need to use node client
+to start server you need to use "./start.bash"
+to start client you need to use "node client"
 
 This is a simple telnet simulation, where you can like in your terminal connect to other telenet services.
 To send a comand to the server you need to type "send <command>".
